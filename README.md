@@ -9,4 +9,4 @@ A relevant example exists in the project for you to run and experiment.
 
 The repository structure is based on the Eclipse IDE project layout. You can import the code there and start coding!
 
-Flights Scheduling using Max Flow <br> Copyright (C) 2013 George Piskas, Theodoros Theodoridis
+Flights Scheduling using Max Flow <br> Copyright (C) 2013 George Piskas, Theodoros Theodoridis 
